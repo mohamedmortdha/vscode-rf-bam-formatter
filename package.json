@@ -2,7 +2,7 @@
 	"name": "vscode-rf-bam-formatter",
 	"displayName": "Robot Framework Formatter bambouna",
 	"description": "VSCode extension for format Robot Framework files.",
-	"publisher": "tumit",
+	"publisher": "robotframeworkbambouna",
 	"license": "MIT",
 	"icon": "icon.png",
 	"version": "0.0.1",
