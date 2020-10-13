@@ -1,7 +1,11 @@
 {
 	"name": "vscode-rf-bam-formatter",
 	"displayName": "Robot Framework Formatter bambouna",
-	"description": "VSCode extension for format Robot Framework files.",
+  "description": "VSCode extension for format Robot Framework files.",
+  "author": {
+    "name": "mohamed mortadha guedhami",
+    "email": "mohamed.mortadha.guedhami-ext@sharingcloud.com"
+  },
 	"publisher": "robotframeworkbambouna",
 	"license": "MIT",
 	"icon": "icon.png",
